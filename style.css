@@ -1,0 +1,276 @@
+.homepage {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .homepage .div {
+    background-color: #ffffff;
+    height: 982px;
+    overflow: hidden;
+    position: relative;
+    width: 1512px;
+  }
+  
+  .homepage .ellipse {
+    background-color: #d9d9d9;
+    border-radius: 30px;
+    height: 60px;
+    left: 1401px;
+    position: absolute;
+    top: 34px;
+    width: 60px;
+  }
+  
+  .homepage .overlap-group {
+    background-color: #565353;
+    height: 982px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 219px;
+  }
+  
+  .homepage .text-wrapper {
+    color: #ffffff;
+    font-family: "Outfit", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 37px;
+  }
+  
+  .homepage .overlap {
+    background-color: #494545;
+    border-radius: 4px;
+    height: 33px;
+    left: 37px;
+    position: absolute;
+    top: 116px;
+    width: 153px;
+  }
+  
+  .homepage .text-wrapper-2 {
+    color: #bcb7b7;
+    font-family: "Outfit", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+  }
+  
+  .homepage .lucide-layout {
+    height: 21px !important;
+    left: 5px !important;
+    position: absolute !important;
+    top: 6px !important;
+    width: 21px !important;
+  }
+  
+  .homepage .text-wrapper-3 {
+    color: #bcb7b7;
+    font-family: "Outfit", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 71px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 205px;
+  }
+  
+  .homepage .text-wrapper-4 {
+    color: #bcb7b7;
+    font-family: "Outfit", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 289px;
+  }
+  
+  .homepage .ci-calendar {
+    height: 24px !important;
+    left: 42px !important;
+    position: absolute !important;
+    top: 204px !important;
+    width: 24px !important;
+  }
+  
+  .homepage .fluent-note {
+    height: 24px !important;
+    left: 42px !important;
+    position: absolute !important;
+    top: 289px !important;
+    width: 24px !important;
+  }
+  
+  .homepage .calendar-square {
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    height: 483px;
+    left: 441px;
+    position: absolute;
+    top: 539px;
+    width: 851px;
+  }
+  
+  .homepage .calendar-text {
+    color: #000000;
+    font-family: "Outfit", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 443px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 496px;
+  }
+  
+  .homepage .documents {
+    height: 60px;
+    left: 443px;
+    position: absolute;
+    top: 381px;
+    width: 852px;
+  }
+  
+  .homepage .documents-2 {
+    background-color: #d9d9d9;
+    border-radius: 3px;
+    height: 25px;
+    left: 675px;
+    position: absolute;
+    top: 35px;
+    width: 175px;
+  }
+  
+  .homepage .documents-3 {
+    background-color: #d9d9d9;
+    border-radius: 3px;
+    height: 25px;
+    left: 450px;
+    position: absolute;
+    top: 35px;
+    width: 175px;
+  }
+  
+  .homepage .documents-4 {
+    background-color: #d9d9d9;
+    border-radius: 3px;
+    height: 25px;
+    left: 225px;
+    position: absolute;
+    top: 35px;
+    width: 175px;
+  }
+  
+  .homepage .documents-5 {
+    background-color: #d9d9d9;
+    border-radius: 3px;
+    height: 25px;
+    left: 0;
+    position: absolute;
+    top: 35px;
+    width: 175px;
+  }
+  
+  .homepage .documents-text {
+    color: #000000;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .homepage .sticky-notes {
+    height: 206px;
+    left: 441px;
+    position: absolute;
+    top: 119px;
+    width: 852px;
+  }
+  
+  .homepage .sticky-note {
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    height: 172px;
+    left: 675px;
+    position: absolute;
+    top: 34px;
+    width: 175px;
+  }
+  
+  .homepage .sticky-note-2 {
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    height: 172px;
+    left: 450px;
+    position: absolute;
+    top: 34px;
+    width: 175px;
+  }
+  
+  .homepage .sticky-note-3 {
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    height: 172px;
+    left: 225px;
+    position: absolute;
+    top: 34px;
+    width: 175px;
+  }
+  
+  .homepage .sticky-note-4 {
+    background-color: #d9d9d9;
+    border-radius: 8px;
+    height: 172px;
+    left: 0;
+    position: absolute;
+    top: 34px;
+    width: 175px;
+  }
+  
+  .homepage .sticky-notes-text {
+    color: #000000;
+    font-family: "Outfit", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .homepage .iconamoon-search-wrapper {
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    height: 33px;
+    left: 609px;
+    position: absolute;
+    top: 44px;
+    width: 514px;
+  }
+  
+  .homepage .iconamoon-search {
+    height: 18px;
+    left: 7px;
+    position: absolute;
+    top: 7px;
+    width: 18px;
+  }

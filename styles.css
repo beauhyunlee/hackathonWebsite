@@ -1,0 +1,157 @@
+.notepage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.notepage .div {
+  background-color: #ffffff;
+  height: 982px;
+  overflow: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.notepage .ellipse {
+  background-color: #d9d9d9;
+  border-radius: 36.5px;
+  height: 73px;
+  left: 1382px;
+  position: absolute;
+  top: 55px;
+  width: 73px;
+}
+
+#textbox {
+    width: 852px;
+    height: 829px;
+    margin-top: 153px;
+    margin-left: 433px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.notepage .overlap-group {
+  background-color: #565353;
+  height: 982px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 219px;
+}
+
+.notepage .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+}
+
+.notepage .overlap {
+  background-color: #494545;
+  border-radius: 4px;
+  height: 33px;
+  left: 37px;
+  position: absolute;
+  top: 369px;
+  width: 153px;
+}
+
+.notepage .text-wrapper-2 {
+  color: #bcb7b7;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 5px;
+}
+
+.notepage .fluent-note {
+  height: 24px !important;
+  left: 5px !important;
+  position: absolute !important;
+  top: 5px !important;
+  width: 24px !important;
+}
+
+.notepage .text-wrapper-3 {
+  color: #bcb7b7;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+}
+
+.notepage .text-wrapper-4 {
+  color: #bcb7b7;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 205px;
+}
+
+.notepage .text-wrapper-5 {
+  color: #bcb7b7;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 17px;
+  font-weight: 400;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 289px;
+}
+
+.notepage .lucide-layout {
+  height: 21px !important;
+  left: 42px !important;
+  position: absolute !important;
+  top: 122px !important;
+  width: 21px !important;
+}
+
+.notepage .ci-calendar {
+  height: 24px !important;
+  left: 42px !important;
+  position: absolute !important;
+  top: 204px !important;
+  width: 24px !important;
+}
+
+.notepage .fluent-note-28-regular {
+  height: 24px !important;
+  left: 42px !important;
+  position: absolute !important;
+  top: 289px !important;
+  width: 24px !important;
+}
+
+.notepage .text-wrapper-6 {
+  color: #000000;
+  font-family: "Outfit-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 449px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 121px;
+}
